@@ -1,0 +1,10 @@
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFABarbutOyunu_\WFABarbutOyunu_\bin\Debug\WFABarbutOyunu_.exe.config
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFABarbutOyunu_\WFABarbutOyunu_\bin\Debug\WFABarbutOyunu_.exe
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFABarbutOyunu_\WFABarbutOyunu_\bin\Debug\WFABarbutOyunu_.pdb
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFABarbutOyunu_\WFABarbutOyunu_\obj\Debug\WFABarbutOyunu_.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFABarbutOyunu_\WFABarbutOyunu_\obj\Debug\WFABarbutOyunu_.Form1.resources
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFABarbutOyunu_\WFABarbutOyunu_\obj\Debug\WFABarbutOyunu_.Properties.Resources.resources
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFABarbutOyunu_\WFABarbutOyunu_\obj\Debug\WFABarbutOyunu_.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFABarbutOyunu_\WFABarbutOyunu_\obj\Debug\WFABarbutOyunu_.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFABarbutOyunu_\WFABarbutOyunu_\obj\Debug\WFABarbutOyunu_.exe
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFABarbutOyunu_\WFABarbutOyunu_\obj\Debug\WFABarbutOyunu_.pdb
